@@ -27,12 +27,16 @@ Each exam set contains **40 questions** sourced from official ISTQB/ASTQB sample
 
 ## Features
 
+### Two Study Modes
+- **Practice Mode** — No time limit. Get instant feedback and detailed explanations after each question. Perfect for learning and understanding concepts.
+- **Exam Mode (60 min)** — Timed like the real ISTQB exam. No feedback until you finish. You can change answers anytime. Auto-submits when time runs out. Timer turns red at 5 minutes remaining.
+
 ### Exam Experience
 - **240 total questions** across 6 exam sets (40 questions each)
-- **Instant feedback** — see correct/incorrect status immediately after answering each question
-- **Finish anytime** — the Finish Exam button is available throughout; unanswered questions are marked as incorrect
 - **Question navigation** — jump to any question via the numbered grid at the top
 - **Progress tracking** — progress bar shows how many questions have been answered
+- **Finish anytime** — the Finish Exam button is always available between Previous and Next buttons
+- **Unanswered questions** are marked as incorrect when you finish
 
 ### Explanations
 - **Per-option rationale** for every question, matching the official ISTQB/ASTQB answer PDFs verbatim
@@ -55,6 +59,7 @@ Each exam set contains **40 questions** sourced from official ISTQB/ASTQB sample
 - **Dark/Light mode** — toggle between dark and light themes; preference is saved in localStorage
 - **Mobile responsive** — tables and diagrams scroll horizontally on small screens; navigation buttons and option cards adapt to narrow viewports
 - **Smooth transitions** — fade animations between screens
+- **Hover effects** — interactive buttons with color fills and lift animations for better UX
 
 ## Getting Started
 
